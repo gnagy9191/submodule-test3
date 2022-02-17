@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jy4quk5+2lce5/9BWmFar+yrT+/phm3Lp6ND6aQ2UJm1QFvajoLapGg9BWuyRzKJizjlE63I1+TEjHsr8tbQDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sonrisa\\projects\\sensei\\migration-test\\submodule-test3\\WebApplication-TEST-COMMON\\WebApplication-TEST-COMMON\\WebApplication-TEST-COMMON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sonrisa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\sonrisa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sonrisa\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\sonrisa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\sonrisa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\sonrisa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
